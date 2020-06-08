@@ -77,11 +77,10 @@ $ travis show # Отображает общую информацию о посл
 ```
 
 ## Links
-- [Основы сборки проектов на С/C++ при помощи CMake](https://eax.me/cmake/)
-- [CMake Tutorial](http://neerc.ifmo.ru/wiki/index.php?title=CMake_Tutorial)
-- [C++ Tutorial - make & CMake](https://www.bogotobogo.com/cplusplus/make.php)
-- [Autotools](http://www.gnu.org/software/automake/manual/html_node/Autotools-Introduction.html)
-- [CMake](https://cgold.readthedocs.io/en/latest/index.html)
+
+- [Travis Client](https://github.com/travis-ci/travis.rb)
+- [AppVeyour](https://www.appveyor.com/)
+- [GitLab CI](https://about.gitlab.com/gitlab-ci/)
 
 ```
 Copyright (c) 2015-2020 The ISC Authors
